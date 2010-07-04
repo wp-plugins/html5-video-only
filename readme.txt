@@ -1,9 +1,26 @@
-﻿=== Degradable HTML5 audio and video ===
+﻿=== Plugin Name ===
 Contributors: excuseser
-Author URI: http://soukie.net/
-Tags: audio, html5, shortcode, video
-Requires at least: 2.6
-Tested up to: 2.9.2
-Stable tag: 1.8.2
+Tags: html5,audio,video,mp4,mp3
+Requires at least: 2.5.0
+Tested up to: 2.9.1
+Stable tag: 1.5.1
 
-Shortcodes for HTML5 video and audio
+A plugin for WordPress to display html5 videos. Shortcodes for HTML5 video and audio.
+
+== Description ==
+
+A plugin for WordPress to display html5 videos.
+
+= Feedback =
+
+
+== Installation ==
+
+1. Search for `Smart Video` in the `Plugins` menu to install.
+1. Or upload folder `smart-video` to the `/wp-content/plugins/` directory.
+1. Activate Smart Video through the 'Plugins' menu in WordPress.
+1. Place the code such as `[video src="http://www.sample.com/xxx.mp4"]` in your post, or just use the `media Insert` in TinyMCE, and then publish it.
+
+= Usage =
+1. In TinyMCE:
+Click the icon of html5video, in the popup window, there're 2 tabs.
