@@ -9,7 +9,8 @@ A plugin for WordPress to display html5 videos. Shortcodes for HTML5 video and a
 
 == Description ==
 
-A plugin for WordPress to display html5 videos.
+A plugin for WordPress to display html5 videos.Shortcodes for HTML5 video and audio.
+can't be work with Degradable HTML5 audio and video. so sorry, i will resolved it as soon as possible
 
 = Feedback =
 
